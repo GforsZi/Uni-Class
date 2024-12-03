@@ -1,41 +1,41 @@
-Project Uni-Class
-BY GforsZi
+Project Uni-Class<br>
+BY GforsZi<br>
 
-Structure file
-*-app--*
-|      |config-*
-|      |       |-Berisi pengaturan untuk port server, dan koneksi mysql
-|      |-controlers-*
-|      |            |-Berisi fungsi tampilan dan metode penghubung ke fungsi database
-|      |-core-*
-|      |      |-Berisi logika inti untuk menjalankan aplikasi
-|      |-models-*
-|      |        |-Berisi fungsi fungsi database dan koneksi ke tabel tertentu
-|      |-views-*
-|      |       |-Berisi tampilan GUI
-|      |-.htaccess-*
-|      |           |-Pengaturan agar directory app tidak dapat di akses publik
-|      |-init.php-*
-|      |          |-File untuk menggabungkan directory app ke index
-*-Resource-*
-|          |-css-*
-|          |     |-Berisi styling script
-|          |-externalCode-*
-|          |              |-Bootstrap
-|          |              |-Berisi code eksternal
-|          |-IMG-*
-|          |     |-Berisi gambar
-|          |-js-*
-|          |    |-Berisi script fungsi js
-|          |-postDir-*
-|          |         |-Berisi poto postingan dari user
-|          |-profile_IMG-*
-|          |             |-Berisi profile dari user
-*-.htaccess-*
-|           |-Pengaturan website
-*-index.php-*
-            |-file utama yang akses user
-
+Structure file<br>
+|-app--* <br>
+|      |config-* <br>
+|      |       |-Berisi pengaturan untuk port server, dan koneksi mysql <br>
+|      |-controlers-* <br>
+|      |            |-Berisi fungsi tampilan dan metode penghubung ke fungsi database <br>
+|      |-core-* <br>
+|      |      |-Berisi logika inti untuk menjalankan aplikasi <br>
+|      |-models-* <br>
+|      |        |-Berisi fungsi fungsi database dan koneksi ke tabel tertentu <br>
+|      |-views-* <br>
+|      |       |-Berisi tampilan GUI <br>
+|      |-.htaccess-* <br>
+|      |           |-Pengaturan agar directory app tidak dapat di akses publik <br>
+|      |-init.php-* <br>
+|      |          |-File untuk menggabungkan directory app ke index <br>
+*-Resource-* <br>
+|          |-css-* <br>
+|          |     |-Berisi styling script <br>
+|          |-externalCode-* <br>
+|          |              |-Bootstrap <br>
+|          |              |-Berisi code eksternal <br>
+|          |-IMG-* <br>
+|          |     |-Berisi gambar <br>
+|          |-js-* <br>
+|          |    |-Berisi script fungsi js <br>
+|          |-postDir-* <br>
+|          |         |-Berisi poto postingan dari user <br>
+|          |-profile_IMG-* <br>
+|          |             |-Berisi profile dari user <br>
+*-.htaccess-* <br>
+|           |-Pengaturan website <br>
+*-index.php-* <br>
+            |-file utama yang akses user <br>
+<br>
 Uni-Class getstarted local
 - Sebelum anda menjalankan project uni-Class di lokal anda anda harus memenuhi beberapa persaratan di antaranya
   1. Memahami cara kerja dari konsep OOP dan MVC pada php
