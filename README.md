@@ -54,7 +54,7 @@ CREATE TABLE main_model(id int primary key auto_increment, user_name varchar(255
 
 CREATE TABLE table_post(id int primary key auto_increment, user_name varchar(255), imgPost varchar(255), caption varchar(255), likes int(10), fotoProfile varchar(255));
 
-CREATE TABLE global_char(id int primary key auto_increment, user_name varchar(255), chat_value varchar(255), foto_profile varchar(255));
+CREATE TABLE global_chat(id int primary key auto_increment, user_name varchar(255), chat_value varchar(255), foto_profile varchar(255));
 
   3. Ubah setting koneksi database di file config sesuaikan dengan variabelnya
   4. Jalankan web server dan lakukan uji test
