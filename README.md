@@ -37,7 +37,7 @@ Structure file<br>
             |-file utama yang akses user <br>
 <br>
 Uni-Class getstarted local
-- Sebelum anda menjalankan project uni-Class di lokal anda anda harus memenuhi beberapa persaratan di antaranya
+- Sebelum anda menjalankan project uni-Class di lokal anda anda harus memenuhi beberapa persyaratan di antaranya
   1. Memahami cara kerja dari konsep OOP dan MVC pada php
   2. Memiliki LDE seperti xampp atau laragon
   3. Menggunakan IDE
