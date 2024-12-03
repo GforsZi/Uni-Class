@@ -36,7 +36,7 @@ Structure file
 *-index.php-*
             |-file utama yang akses user
 
-Uni-Class getstartep local
+Uni-Class getstarted local
 - Sebelum anda menjalankan project uni-Class di lokal anda anda harus memenuhi beberapa persaratan di antaranya
   1. Memahami cara kerja dari konsep OOP dan MVC pada php
   2. Memiliki LDE seperti xampp atau laragon
